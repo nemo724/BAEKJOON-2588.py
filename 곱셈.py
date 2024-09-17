@@ -1,4 +1,4 @@
-a,b=map(int, input().split())
+a,b=map(int, input().split())#제출을 목적이라면 a=int(input()),b=int(input())로 수정
 total=0
 
 for i in range (0,3,1):
